@@ -198,9 +198,18 @@ body {
         font-size: 1rem;
     }
 
+    .depoimentos {
+        padding-bottom: 0;
+    }
+
     .depoimento__depoimento {
         display: flex;
         flex-direction: column;
+        padding: 0 0 0 5rem;
+    }
+
+    .plano_lista {
+        padding-left: 5rem;
     }
 
     .celular {
